@@ -1,0 +1,74 @@
+[
+  {
+    "topic": "Simple Interest",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Simple Interest is a method of calculating the interest charged or earned on a principal amount over a period of time at a fixed rate of interest.\n\nIt does not include interest on accumulated interest — only the principal earns interest."
+      }
+    ]
+  },
+  {
+    "topic": "Important Formulas",
+    "subtopics": [
+      {
+        "subtopic": "Basic Formulas",
+        "content": "**Simple Interest (SI) = (P × R × T) / 100**\nWhere:\nP = Principal (initial amount)\nR = Rate of Interest per annum\nT = Time in years\n\n**Total Amount (A) = Principal + SI = P + (P × R × T)/100**"
+      }
+    ]
+  },
+  {
+    "topic": "Units and Conversions",
+    "subtopics": [
+      {
+        "subtopic": "Time Period Conversion",
+        "content": "If time is given in months:\n**T = Number of months / 12**\n\nIf time is in days:\n**T = Number of days / 365** (or /360 depending on context)"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Basic SI Problem",
+        "content": "**Q:** Find the SI on ₹2000 at 5% p.a. for 2 years.\n\n**Solution:**\nSI = (2000 × 5 × 2) / 100 = ₹200\n\n**Answer:** ₹200"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Finding Rate",
+        "content": "**Q:** If the SI on ₹1500 for 3 years is ₹270, find the rate.\n\n**Solution:**\nSI = (P × R × T)/100\n270 = (1500 × R × 3)/100\n270 = 45R ⇒ R = 6%\n\n**Answer:** 6% per annum"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 3",
+    "subtopics": [
+      {
+        "subtopic": "Finding Principal",
+        "content": "**Q:** If the SI earned in 2 years at 10% p.a. is ₹300, find the principal.\n\n**Solution:**\nSI = (P × R × T)/100\n300 = (P × 10 × 2)/100 ⇒ 300 = P × 0.2 ⇒ P = ₹1500\n\n**Answer:** ₹1500"
+      }
+    ]
+  },
+  {
+    "topic": "Shortcuts & Tricks",
+    "subtopics": [
+      {
+        "subtopic": "Quick Mental Math",
+        "content": "1. Use percentage breakup for quick calculation.\n2. For 1 year SI: SI = (P × R) / 100\n3. For half-yearly or quarterly interest, adjust T accordingly.\n\n**Example:**\nFor 6 months: T = 0.5\nFor 3 months: T = 0.25"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Forgetting to convert months into years.\n2. Applying the formula on Amount instead of Principal.\n3. Not simplifying properly.\n4. Confusing SI with Compound Interest."
+      }
+    ]
+  }
+]
