@@ -1,0 +1,97 @@
+[
+  {
+    "topic": "Ratio and Proportion",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Ratio is a comparison of two quantities by division. Proportion indicates that two ratios are equal.\n\n**Example:**\nRatio of 4 and 8 = 4:8 = 1:2\nProportion: 2:3 = 4:6 → 2/3 = 4/6"
+      }
+    ]
+  },
+  {
+    "topic": "Ratio Basics",
+    "subtopics": [
+      {
+        "subtopic": "Understanding Ratios",
+        "content": "A ratio compares two quantities and is expressed as a:b or a/b.\n\n**Example:**\nIf a bag contains 3 red and 5 blue balls, the ratio of red to blue = 3:5"
+      },
+      {
+        "subtopic": "Simplifying Ratios",
+        "content": "Divide both terms by their HCF to simplify a ratio.\n\n**Example:**\n12:18 → HCF = 6 → 12/6 : 18/6 = 2:3"
+      }
+    ]
+  },
+  {
+    "topic": "Proportion",
+    "subtopics": [
+      {
+        "subtopic": "Concept of Proportion",
+        "content": "When two ratios are equal, they are said to be in proportion: a:b = c:d\n\n**Example:**\n2:3 = 4:6 → 2/3 = 4/6 → True"
+      },
+      {
+        "subtopic": "Cross Multiplication Method",
+        "content": "a:b = c:d ⇒ a × d = b × c\n\n**Example:**\n3:x = 9:12 ⇒ 3×12 = 9×x ⇒ x = 4"
+      }
+    ]
+  },
+  {
+    "topic": "Types of Ratios",
+    "subtopics": [
+      {
+        "subtopic": "Compound Ratio",
+        "content": "Product of two or more ratios.\n\n**Example:**\n(2:3) × (4:5) = 8:15"
+      },
+      {
+        "subtopic": "Inverse Ratio",
+        "content": "Reciprocal of the terms.\n\n**Example:**\nInverse of 3:4 is 4:3"
+      }
+    ]
+  },
+  {
+    "topic": "Applications",
+    "subtopics": [
+      {
+        "subtopic": "Using Ratios in Real Life",
+        "content": "Used to divide amounts, mix ingredients, compare speeds, etc.\n\n**Example:**\n₹800 is divided in the ratio 3:5 ⇒ ₹800 × 3/8 = ₹300 and ₹800 × 5/8 = ₹500"
+      },
+      {
+        "subtopic": "Mean Proportion",
+        "content": "Mean proportion between a and b is √(a×b)\n\n**Example:**\nMean proportion between 4 and 9 = √(4×9) = √36 = 6"
+      },
+      {
+        "subtopic": "Third Proportion",
+        "content": "If a:b = b:c ⇒ c is third proportion to a and b.\n\n**Example:**\nFind third proportion of 4 and 8: ⇒ x = (8×8)/4 = 16"
+      },
+      {
+        "subtopic": "Fourth Proportion",
+        "content": "If a:b = c:d ⇒ d is the fourth proportion.\n\n**Example:**\na = 2, b = 5, c = 8 ⇒ d = (b×c)/a = (5×8)/2 = 20"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Examples",
+    "subtopics": [
+      {
+        "subtopic": "Example 1",
+        "content": "**Q:** Find x: If 5:x = 15:21\n**Solution:** 5/15 = x/21 ⇒ x = (15×21)/5 = 63\n**Answer:** x = 7"
+      },
+      {
+        "subtopic": "Example 2",
+        "content": "**Q:** Divide ₹1000 between A and B in ratio 2:3\n**Solution:** Total parts = 2+3 = 5 ⇒ A = ₹400, B = ₹600"
+      },
+      {
+        "subtopic": "Example 3",
+        "content": "**Q:** Mean proportion between 5 and 20\n**Solution:** √(5×20) = √100 = 10"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Adding instead of multiplying in compound ratios.\n2. Not simplifying ratios.\n3. Mixing up mean and third proportion.\n\n**Example Mistake:**\nWrong: 2:3 = 4:5 implies 2×3 = 4×5 → Incorrect\nCorrect: Cross-multiplication: 2×5 = 3×4"
+      }
+    ]
+  }
+]
