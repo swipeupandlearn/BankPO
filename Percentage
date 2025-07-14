@@ -1,0 +1,97 @@
+[
+  {
+    "topic": "Percentage",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "A percentage is a number or ratio expressed as a fraction of 100. It is denoted using the symbol '%'.\n\n**Example:**\n40% means 40 out of 100, or 40/100 = 0.4."
+      }
+    ]
+  },
+  {
+    "topic": "Basic Formulae",
+    "subtopics": [
+      {
+        "subtopic": "Common Formulas",
+        "content": "1. **Percentage = (Part / Whole) × 100**\n2. **Part = (Percentage × Whole) / 100**\n3. **Whole = (Part × 100) / Percentage**\n4. **Increase/Decrease % = (Difference / Original) × 100**"
+      },
+      {
+        "subtopic": "Example Formulas",
+        "content": "**Example 1:** What is 25% of 600?\n= (25 × 600)/100 = 150\n\n**Example 2:** If a number increases from 200 to 260, find the % increase.\n= (60 / 200) × 100 = 30%"
+      }
+    ]
+  },
+
+  {
+    "topic": "Fraction to Percentage Conversion (1/1 to 1/20)",
+    "subtopics": [
+      {
+        "subtopic": "Fraction to % Conversion Table",
+        "content": "Here are standard conversions useful for Bank PO exams:\n\n1/1 = 100%\n1/2 = 50%\n1/3 ≈ 33.33%\n1/4 = 25%\n1/5 = 20%\n1/6 ≈ 16.67%\n1/7 ≈ 14.29%\n1/8 = 12.5%\n1/9 ≈ 11.11%\n1/10 = 10%\n1/11 ≈ 9.09%\n1/12 ≈ 8.33%\n1/13 ≈ 7.69%\n1/14 ≈ 7.14%\n1/15 ≈ 6.67%\n1/16 = 6.25%\n1/17 ≈ 5.88%\n1/18 ≈ 5.56%\n1/19 ≈ 5.26%\n1/20 = 5%"
+      },
+      {
+        "subtopic": "Example Usage in Questions",
+        "content": "**Example 1:** What is 1/5 of 300?\n→ 1/5 = 20%\n→ (20% of 300) = 60\n\n**Example 2:** What is 1/8 of ₹640?\n→ 1/8 = 12.5%\n→ (12.5% of 640) = 80"
+      }
+    ]
+  },
+
+  {
+    "topic": "Successive Percentage Change",
+    "subtopics": [
+      {
+        "subtopic": "Formula",
+        "content": "When two percentages A% and B% are applied successively:\n**Net % change = A + B + (A × B) / 100**\n\nUse '+' for increase and '−' for decrease accordingly."
+      },
+      {
+        "subtopic": "Example of Successive % Change",
+        "content": "**Example:** A price is first increased by 20% and then decreased by 10%.\nNet change = 20 − 10 − (20 × 10)/100 = 10 − 2 = 8% increase"
+      }
+    ]
+  },
+  {
+    "topic": "Percentage in Profit/Loss & Discounts",
+    "subtopics": [
+      {
+        "subtopic": "Application of Percentage",
+        "content": "Percentage is widely used in calculating profit/loss, discounts, and interest.\n\n**Example 1:** If CP = ₹200 and profit = 10%, then SP = 200 + (10% of 200) = ₹220\n\n**Example 2:** A shopkeeper gives 20% discount on ₹500 → Discount = ₹100 → SP = ₹400"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Bank PO Style Question",
+        "content": "**Q:** What percent of 240 is 48?\n**Solution:** (48 / 240) × 100 = 20%\n**Answer:** 20%"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Bank PO Style Question",
+        "content": "**Q:** A number is first increased by 20% and then decreased by 10%. What is the net change?\n**Solution:** 20 − 10 − (20 × 10)/100 = 10 − 2 = 8% increase\n**Answer:** 8%"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 3",
+    "subtopics": [
+      {
+        "subtopic": "Bank PO Style Question",
+        "content": "**Q:** 30% of a number is 150. Find the number.\n**Solution:** Number = (150 × 100) / 30 = 500\n**Answer:** 500"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Confusing base value (Always take original number as base)\n2. Mixing increase/decrease percentages\n3. Ignoring BODMAS when using percentages in equations\n\n**Example Mistake:**\nIncorrect: Adding 10% and 20% directly → 10% + 20% = 30%\nCorrect: Use successive change formula: 10 + 20 + (10 × 20)/100 = 32%"
+      }
+    ]
+  }
+]
