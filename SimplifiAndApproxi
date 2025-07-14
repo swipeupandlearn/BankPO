@@ -1,0 +1,86 @@
+[
+  {
+    "topic": "Simplification & Approximation",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Simplification and Approximation are important arithmetic topics in Bank PO exams. These involve solving expressions using the correct order of operations and estimating answers quickly when exact calculation is not required."
+      }
+    ]
+  },
+  {
+    "topic": "BODMAS Rule",
+    "subtopics": [
+      {
+        "subtopic": "What is BODMAS?",
+        "content": "BODMAS stands for Brackets, Orders (powers and roots), Division, Multiplication, Addition, and Subtraction. It defines the correct sequence to solve a mathematical expression.\n\n**Example 1:**\nExpression: 8 + (3 × 5) − 6 ÷ 3\nStep-by-step: 8 + 15 − 2 = 21\n\n**Example 2:**\nExpression: 100 ÷ 5 × 2 + 6\nStep-by-step: 20 × 2 + 6 = 40 + 6 = 46"
+      },
+      {
+        "subtopic": "Example of BODMAS",
+        "content": "**Bank PO Example 1:**\nSimplify: (12 × 2) + 36 ÷ 3\nSolution: 24 + 12 = 36\n\n**Bank PO Example 2:**\nSimplify: 144 ÷ 12 + 3 × 5\nSolution: 12 + 15 = 27"
+      }
+    ]
+  },
+  {
+    "topic": "Types of Simplification Questions",
+    "subtopics": [
+      {
+        "subtopic": "Common Types",
+        "content": "1. Expressions with brackets\n2. Mixed operations: +, −, ×, ÷\n3. Large number simplifications\n4. Decimals and fractions\n5. Square roots and cube roots\n6. Surds and indices\n\n**Example:**\nExpression: √144 + 15 ÷ 3 − (6 − 2)\nSolution: 12 + 5 − 4 = 13"
+      },
+      {
+        "subtopic": "Bank PO Practice Examples",
+        "content": "**Q1:** Simplify: (56 ÷ 7) + 6 × 3\nSolution: 8 + 18 = 26\n\n**Q2:** Simplify: 125 ÷ 5 + 4 × 2\nSolution: 25 + 8 = 33"
+      }
+    ]
+  },
+  {
+    "topic": "Approximation Technique",
+    "subtopics": [
+      {
+        "subtopic": "How to Approximate",
+        "content": "In approximation questions, you estimate the answer by rounding the numbers to their nearest base (like 100, 500, etc.) and then solve the expression.\n\n**Example 1:**\nOriginal: 199 × 21 ÷ 7\nRounded: 200 × 20 ÷ 7 = 571.43 (Approximate Answer)\n\n**Example 2:**\nOriginal: 639 ÷ 19\nRounded: 640 ÷ 20 = 32"
+      },
+      {
+        "subtopic": "Bank PO Approximation Examples",
+        "content": "**Q1:** Approximate: 728 ÷ 12 + 18\nRounded: 720 ÷ 12 + 18 = 60 + 18 = 78\n\n**Q2:** Approximate: 874 × 29\nRounded: 900 × 30 = 27000"
+      }
+    ]
+  },
+  {
+    "topic": "Important Tips",
+    "subtopics": [
+      {
+        "subtopic": "Simplification Tips",
+        "content": "1. Always follow BODMAS strictly.\n2. Eliminate options if multiple choices are given.\n3. Avoid unnecessary calculations in approximation.\n4. Practice mental math for faster performance.\n5. Learn multiplication tricks for 11, 25, 50, etc.\n\n**Example:**\nUse 25 × 4 = 100 instantly instead of manual multiplication."
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Simplification",
+        "content": "**Q:** Simplify: (45 × 2) + (36 ÷ 6) − 8\nStep-by-step: 90 + 6 − 8 = 88\n**Answer:** 88"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Approximation",
+        "content": "**Q:** Approximate: 644 × 19 ÷ 10\nRounded to: 640 × 20 ÷ 10 = 1280\n**Answer:** 1280"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "What to Avoid",
+        "content": "1. Skipping BODMAS order\n2. Wrong rounding off in approximation\n3. Over-calculating instead of estimating\n4. Confusing decimals and whole numbers\n5. Ignoring brackets or orders\n\n**Example Mistake:**\nExpression: 8 + 4 × 2 — Incorrect: (8 + 4) × 2 = 24 — Correct: 8 + (4 × 2) = 16"
+      }
+    ]
+  }
+]
