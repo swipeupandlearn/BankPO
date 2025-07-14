@@ -1,0 +1,74 @@
+[
+  {
+    "topic": "Profit and Loss",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Profit and Loss is a fundamental topic in arithmetic used to calculate gain or loss incurred in buying and selling of goods.\n\n- **Cost Price (CP):** The price at which an article is purchased.\n- **Selling Price (SP):** The price at which an article is sold.\n- **Profit:** When SP > CP\n- **Loss:** When CP > SP"
+      }
+    ]
+  },
+  {
+    "topic": "Important Formulas",
+    "subtopics": [
+      {
+        "subtopic": "Basic Formulas",
+        "content": "**Profit = SP − CP**\n**Loss = CP − SP**\n\n**Profit % = (Profit / CP) × 100**\n**Loss % = (Loss / CP) × 100**\n\n**SP = CP × (1 + Profit/100)**\n**SP = CP × (1 − Loss/100)**\n\n**CP = SP / (1 + Profit/100)**\n**CP = SP / (1 − Loss/100)**"
+      }
+    ]
+  },
+  {
+    "topic": "Types of Questions",
+    "subtopics": [
+      {
+        "subtopic": "Common Patterns",
+        "content": "1. Find Profit or Loss when CP and SP are given.\n2. Find SP or CP when Profit% or Loss% is given.\n3. Discount-related problems.\n4. Marked Price (MP), Discount, and Net Profit.\n5. Two successive profit/loss cases.\n6. False weight/measurement type problems."
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Profit Calculation",
+        "content": "**Q:** A shopkeeper bought an article for ₹500 and sold it for ₹650. What is the profit percentage?\n\n**Solution:**\nProfit = 650 − 500 = ₹150\nProfit% = (150 / 500) × 100 = 30%\n\n**Answer:** 30%"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Loss Calculation",
+        "content": "**Q:** A person sold a bicycle for ₹720 at a loss of 10%. Find the cost price.\n\n**Solution:**\nSP = ₹720\nLoss% = 10%\n\nCP = SP / (1 − Loss/100)\n= 720 / (1 − 10/100) = 720 / 0.90 = ₹800\n\n**Answer:** ₹800"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 3",
+    "subtopics": [
+      {
+        "subtopic": "Finding SP from Profit %",
+        "content": "**Q:** If the cost price of an item is ₹400 and the profit is 20%, what is the selling price?\n\n**Solution:**\nSP = CP × (1 + Profit/100)\n= 400 × (1 + 20/100) = 400 × 1.2 = ₹480\n\n**Answer:** ₹480"
+      }
+    ]
+  },
+  {
+    "topic": "Important Tips",
+    "subtopics": [
+      {
+        "subtopic": "Tricks and Shortcuts",
+        "content": "1. Always compare with Cost Price when calculating profit/loss %.\n2. Use formulas directly when values are given in percentage.\n3. Remember: Profit/Loss % is always on CP unless stated otherwise.\n4. For successive profits/losses: Net % = (a + b + ab/100)"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Using SP instead of CP to calculate profit or loss percentage.\n2. Confusing 'Profit' with 'Profit %'.\n3. Not converting percentage to decimal while using formulas.\n4. Ignoring whether the question is asking about SP, CP, or percentage."
+      }
+    ]
+  }
+]
