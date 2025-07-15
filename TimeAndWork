@@ -1,0 +1,69 @@
+[
+  {
+    "topic": "Time and Work",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Time and Work is a topic that deals with how much work is done by individuals or groups over a given time. It involves concepts like work efficiency, time taken, and work rate."
+      }
+    ]
+  },
+  {
+    "topic": "Basic Formula",
+    "subtopics": [
+      {
+        "subtopic": "Work-Time Relation",
+        "content": "Work = Rate × Time\nIf a person can complete a work in 'n' days, then the work done in 1 day = 1/n.\n\n**Example:** If A can do a job in 10 days, then A's 1-day work = 1/10."
+      },
+      {
+        "subtopic": "Combined Work",
+        "content": "If A can do a job in x days and B can do it in y days, then:\n(A + B)’s 1-day work = 1/x + 1/y\n\n**Example:** A can do work in 6 days, B in 3 days. Together they finish 1/6 + 1/3 = 1/2 of work per day. So, total time = 2 days."
+      }
+    ]
+  },
+  {
+    "topic": "Efficiency Method",
+    "subtopics": [
+      {
+        "subtopic": "Concept",
+        "content": "Instead of fractions, efficiency is used to simplify work calculations. If A completes work in 5 days and B in 10 days, A is twice as efficient as B.\n\n**Example:** A's efficiency = 100/5 = 20 units/day, B's = 10 units/day"
+      }
+    ]
+  },
+  {
+    "topic": "Pipes and Cisterns Concept (Related)",
+    "subtopics": [
+      {
+        "subtopic": "Relation with Time and Work",
+        "content": "Pipes and cisterns problems are solved like time and work, where filling = positive work, and leakage = negative work.\n\n**Example:** A pipe fills tank in 6 hrs, leak empties in 12 hrs:\nEffective work = 1/6 − 1/12 = 1/12 ⇒ Time = 12 hrs"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Work Division",
+        "content": "**Q:** A can do a piece of work in 12 days and B in 18 days. In how many days will they finish it together?\n**Solution:** 1-day work = 1/12 + 1/18 = (3 + 2)/36 = 5/36 ⇒ Time = 36/5 = 7.2 days\n**Answer:** 7.2 days"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Work and Leave",
+        "content": "**Q:** A and B together can do a job in 10 days. A alone can do it in 15 days. In how many days can B alone complete the job?\n**Solution:** (A + B)'s 1-day work = 1/10, A's 1-day = 1/15\n⇒ B's 1-day = 1/10 − 1/15 = (3 − 2)/30 = 1/30\n**Answer:** 30 days"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Mixing work and time formulas\n2. Wrong addition of rates (not taking LCM)\n3. Assuming efficiency as reciprocal of time always\n\n**Example Mistake:**\nWrong: Total time = 1/(1/6 + 1/4) = 10 (Incorrect)\nCorrect: 1-day work = 1/6 + 1/4 = 5/12 ⇒ Time = 12/5"
+      }
+    ]
+  }
+]
