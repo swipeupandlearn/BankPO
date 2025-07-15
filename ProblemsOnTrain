@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "Problems on Trains",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Problems on trains are based on the concept of relative speed and involve calculating time, speed, and distance when a train crosses a platform, person, or another train."
+      }
+    ]
+  },
+  {
+    "topic": "Basic Formulas",
+    "subtopics": [
+      {
+        "subtopic": "Key Equations",
+        "content": "- Time = Distance / Speed\n- If a train of length L meters crosses:\n  • A pole: Time = L / Speed\n  • A platform of length P: Time = (L + P) / Speed\n  • Another train of length L₂: Time = (L + L₂) / Relative Speed\n\nSpeed is always converted to m/s using:\nSpeed (m/s) = (Speed in km/hr) × (5/18)"
+      }
+    ]
+  },
+  {
+    "topic": "Relative Speed",
+    "subtopics": [
+      {
+        "subtopic": "Concept of Relative Motion",
+        "content": "- If two trains move in the same direction, relative speed = difference of their speeds.\n- If they move in opposite directions, relative speed = sum of their speeds."
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Train Passing a Pole",
+        "content": "**Q:** A train 180 m long runs at 54 km/hr. How much time will it take to pass a pole?\n**Solution:**\nSpeed = 54 × 5/18 = 15 m/s\nTime = 180 / 15 = 12 seconds\n**Answer:** 12 seconds"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Train Passing a Platform",
+        "content": "**Q:** A 150 m long train crosses a platform 350 m long in 40 seconds. Find the speed.\n**Solution:**\nDistance = 150 + 350 = 500 m\nSpeed = 500 / 40 = 12.5 m/s = 12.5 × 18/5 = 45 km/hr\n**Answer:** 45 km/hr"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 3",
+    "subtopics": [
+      {
+        "subtopic": "Two Trains Moving Opposite",
+        "content": "**Q:** Two trains of lengths 120 m and 130 m are moving in opposite directions at 60 km/hr and 90 km/hr. How long will they take to cross each other?\n**Solution:**\nRelative speed = (60 + 90) × 5/18 = 150 × 5/18 = 41.67 m/s\nTotal length = 120 + 130 = 250 m\nTime = 250 / 41.67 ≈ 6 seconds\n**Answer:** 6 seconds"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Forgetting to convert speed to m/s\n2. Not adding lengths while crossing platform or another train\n3. Using wrong relative speed formula\n4. Confusing meters and kilometers\n\n**Example Mistake:**\nWrong: Time = 150 / 60 (without converting speed)\nCorrect: Convert speed before calculation"
+      }
+    ]
+  }
+]
