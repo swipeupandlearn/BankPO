@@ -1,0 +1,83 @@
+[
+  {
+    "topic": "Algebra",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Algebra is a branch of mathematics that uses symbols (like x, y) to represent numbers in equations and formulas. It is widely used in problem-solving and Bank PO exams."
+      }
+    ]
+  },
+  {
+    "topic": "Basic Algebraic Identities",
+    "subtopics": [
+      {
+        "subtopic": "Important Formulas",
+        "content": "1. (a + b)^2 = a^2 + 2ab + b^2\n2. (a − b)^2 = a^2 − 2ab + b^2\n3. (a + b)(a − b) = a^2 − b^2\n4. a^3 + b^3 = (a + b)(a^2 − ab + b^2)\n5. a^3 − b^3 = (a − b)(a^2 + ab + b^2)\n\n**Example:**\n(5 + 3)^2 = 25 + 30 + 9 = 64"
+      }
+    ]
+  },
+  {
+    "topic": "Linear Equations",
+    "subtopics": [
+      {
+        "subtopic": "Solving Linear Equations",
+        "content": "Equations of the form ax + b = 0.\n\n**Example:**\nSolve: 2x + 3 = 7 ⇒ 2x = 4 ⇒ x = 2"
+      }
+    ]
+  },
+  {
+    "topic": "Quadratic Equations",
+    "subtopics": [
+      {
+        "subtopic": "Standard Form & Formula",
+        "content": "Quadratic Equation: ax^2 + bx + c = 0\nRoots: x = [−b ± √(b^2 − 4ac)] / 2a\n\n**Example:**\n2x^2 − 4x − 6 = 0 ⇒ x = [4 ± √(16 + 48)] / 4 = [4 ± 8] / 4 ⇒ x = 3, −1"
+      }
+    ]
+  },
+  {
+    "topic": "Algebraic Simplification",
+    "subtopics": [
+      {
+        "subtopic": "Simplifying Expressions",
+        "content": "Combine like terms and use identities.\n\n**Example:**\nSimplify: (x + 2)^2 − (x − 2)^2\n= x^2 + 4x + 4 − (x^2 − 4x + 4) = 8x"
+      }
+    ]
+  },
+  {
+    "topic": "Word Problems on Algebra",
+    "subtopics": [
+      {
+        "subtopic": "Application Based",
+        "content": "**Example:**\nA number when doubled and increased by 5 gives 17. Find the number.\nLet number = x\n2x + 5 = 17 ⇒ 2x = 12 ⇒ x = 6"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Solve Equation",
+        "content": "**Q:** Solve: 3x − 5 = 10\n**Solution:** 3x = 15 ⇒ x = 5\n**Answer:** x = 5"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Simplify Using Identity",
+        "content": "**Q:** Simplify: (7 + 3)^2 − (7 − 3)^2\n**Solution:** 100 − 16 = 84\n**Answer:** 84"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Forgetting signs during simplification\n2. Misapplying identities\n3. Errors in factorization\n4. Not taking both + and − roots\n5. Misinterpreting word problems\n\n**Example Mistake:**\n(x + 2)^2 ≠ x^2 + 4 ⇒ Correct: x^2 + 4x + 4"
+      }
+    ]
+  }
+]
