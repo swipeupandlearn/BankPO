@@ -1,0 +1,92 @@
+[
+  {
+    "topic": "Geometry and Mensuration",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Geometry deals with shapes, sizes, angles, and dimensions of objects. Mensuration is the branch of mathematics that deals with the measurement of area, volume, and perimeter of geometrical figures."
+      }
+    ]
+  },
+  {
+    "topic": "Basic Geometry Concepts",
+    "subtopics": [
+      {
+        "subtopic": "Important Terms",
+        "content": "1. Point: A location with no dimension\n2. Line: A straight one-dimensional figure\n3. Angle: Formed when two rays meet at a point\n4. Triangle: A polygon with 3 sides\n5. Circle: A set of points equidistant from the center\n\n**Example:**\nTriangle ABC with angles 60°, 60°, 60° is an equilateral triangle."
+      }
+    ]
+  },
+  {
+    "topic": "Triangle Properties",
+    "subtopics": [
+      {
+        "subtopic": "Types and Formulas",
+        "content": "1. Area = ½ × base × height\n2. Pythagoras Theorem: a² + b² = c² (right triangle)\n3. Sum of angles = 180°\n\n**Example:**\nBase = 10 cm, Height = 6 cm ⇒ Area = ½ × 10 × 6 = 30 cm²"
+      }
+    ]
+  },
+  {
+    "topic": "Quadrilateral Properties",
+    "subtopics": [
+      {
+        "subtopic": "Key Formulas",
+        "content": "1. Rectangle Area = length × breadth\n2. Square Area = side²\n3. Rhombus Area = (1/2) × d₁ × d₂\n\n**Example:**\nSquare with side = 5 cm ⇒ Area = 5 × 5 = 25 cm²"
+      }
+    ]
+  },
+  {
+    "topic": "Circle and Its Properties",
+    "subtopics": [
+      {
+        "subtopic": "Important Formulas",
+        "content": "1. Circumference = 2πr\n2. Area = πr²\n\n**Example:**\nRadius = 7 cm ⇒ Area = 22/7 × 7 × 7 = 154 cm²"
+      }
+    ]
+  },
+  {
+    "topic": "Mensuration Formulas - 2D Shapes",
+    "subtopics": [
+      {
+        "subtopic": "Area and Perimeter",
+        "content": "1. Square: Area = a², Perimeter = 4a\n2. Rectangle: Area = l × b, Perimeter = 2(l + b)\n3. Triangle: Area = ½ × b × h\n4. Circle: Area = πr², Perimeter = 2πr"
+      }
+    ]
+  },
+  {
+    "topic": "Mensuration Formulas - 3D Shapes",
+    "subtopics": [
+      {
+        "subtopic": "Volume and Surface Area",
+        "content": "1. Cube: Volume = a³, Surface Area = 6a²\n2. Cuboid: Volume = l × b × h, Surface Area = 2(lb + bh + hl)\n3. Sphere: Volume = 4/3 πr³, Surface Area = 4πr²\n4. Cylinder: Volume = πr²h, Surface Area = 2πr(h + r)"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Find Area of Circle",
+        "content": "**Q:** Radius of a circle is 14 cm. Find the area.\n**Solution:** Area = πr² = 22/7 × 14 × 14 = 616 cm²\n**Answer:** 616 cm²"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Find Volume of Cylinder",
+        "content": "**Q:** Radius = 5 cm, Height = 10 cm\n**Solution:** Volume = πr²h = 3.14 × 25 × 10 = 785 cm³\n**Answer:** 785 cm³"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Using wrong formula for the figure\n2. Ignoring units (cm vs cm²)\n3. Mixing perimeter with area\n4. Not converting radius/diameter properly\n5. Incorrect value of π (use 3.14 or 22/7 consistently)\n\n**Example Mistake:**\nWrong: Area of circle = 2πr ⇒ Correct: Area = πr²"
+      }
+    ]
+  }
+]
