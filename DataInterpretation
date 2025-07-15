@@ -1,0 +1,83 @@
+[
+  {
+    "topic": "Data Interpretation (DI)",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Data Interpretation involves analyzing and drawing conclusions from data presented in various formats like tables, bar graphs, line charts, pie charts, and caselets. It is a vital section in Bank PO exams to test numerical ability and decision-making."
+      }
+    ]
+  },
+  {
+    "topic": "Types of DI Questions",
+    "subtopics": [
+      {
+        "subtopic": "Common Formats",
+        "content": "1. **Tables** – Present data in rows and columns.\n2. **Bar Graphs** – Use bars to compare quantities.\n3. **Line Graphs** – Show trends over time.\n4. **Pie Charts** – Show percentage-wise data distribution.\n5. **Caselets** – Paragraph format requiring data extraction."
+      }
+    ]
+  },
+  {
+    "topic": "Basic Calculations Required",
+    "subtopics": [
+      {
+        "subtopic": "Skills Needed",
+        "content": "1. Percentages\n2. Averages\n3. Ratios and Proportions\n4. Simplification\n5. Approximations\n6. Basic Algebra"
+      }
+    ]
+  },
+  {
+    "topic": "Approach to Solve DI Questions",
+    "subtopics": [
+      {
+        "subtopic": "Steps to Follow",
+        "content": "1. Understand the data format thoroughly.\n2. Read each question carefully.\n3. Use approximation wherever possible.\n4. Eliminate options logically.\n5. Perform calculations accurately using BODMAS.\n6. Practice speed and accuracy."
+      }
+    ]
+  },
+  {
+    "topic": "Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Table-based DI",
+        "content": "**Table:**\n| Year | Sales (₹ lakh) |\n|------|----------------|\n| 2020 | 250            |\n| 2021 | 300            |\n| 2022 | 350            |\n\n**Q:** What is the percentage increase in sales from 2020 to 2022?\n**Solution:** (350−250)/250 × 100 = 100/250 × 100 = 40%\n**Answer:** 40%"
+      }
+    ]
+  },
+  {
+    "topic": "Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Pie Chart-based DI",
+        "content": "**Pie Chart:** Total Budget = ₹100000\n- Rent: 20%\n- Salary: 30%\n- Marketing: 25%\n- Miscellaneous: 25%\n\n**Q:** How much is allocated for Marketing?\n**Solution:** 25% of ₹100000 = ₹25000\n**Answer:** ₹25000"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Bar Graph",
+        "content": "**Bar Graph:** Number of students in 3 years: 2021 – 120, 2022 – 150, 2023 – 180\n\n**Q:** What is the average number of students over 3 years?\n**Solution:** (120 + 150 + 180)/3 = 450/3 = 150\n**Answer:** 150"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Line Chart",
+        "content": "**Line Chart:** Revenue in ₹ (in thousands): Jan – 50, Feb – 60, Mar – 70\n\n**Q:** What is the percentage increase from Jan to Mar?\n**Solution:** (70−50)/50 × 100 = 20/50 × 100 = 40%\n**Answer:** 40%"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Misreading graph scales\n2. Ignoring data units (thousands/lakhs)\n3. Calculation errors in percentage/ratio\n4. Not rounding properly in approximations\n5. Spending too much time on 1 set\n\n**Example Mistake:**\nWrong: Reading 2.5 lakh as ₹25000\nCorrect: 2.5 lakh = ₹250000"
+      }
+    ]
+  }
+]
