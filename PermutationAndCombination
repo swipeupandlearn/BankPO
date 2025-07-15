@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "Permutation and Combination",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Permutation and Combination are methods used in counting to determine the number of possible arrangements (permutations) or selections (combinations) from a given set of items."
+      }
+    ]
+  },
+  {
+    "topic": "Permutation",
+    "subtopics": [
+      {
+        "subtopic": "What is Permutation?",
+        "content": "Permutation refers to the arrangement of items where the order matters.\n\n**Formula:** nPr = n! / (n − r)!\nWhere:\nn = total items\nr = items taken at a time"
+      },
+      {
+        "subtopic": "Example 1",
+        "content": "**Q:** In how many ways can 3 out of 5 persons be arranged in a row?\n**Solution:** 5P3 = 5! / (5 − 3)! = 120 / 2 = 60\n**Answer:** 60 ways"
+      }
+    ]
+  },
+  {
+    "topic": "Combination",
+    "subtopics": [
+      {
+        "subtopic": "What is Combination?",
+        "content": "Combination refers to the selection of items where the order does not matter.\n\n**Formula:** nCr = n! / (r!(n − r)!)"
+      },
+      {
+        "subtopic": "Example 2",
+        "content": "**Q:** In how many ways can a committee of 2 people be formed from 4?\n**Solution:** 4C2 = 4! / (2! × 2!) = 24 / 4 = 6\n**Answer:** 6 ways"
+      }
+    ]
+  },
+  {
+    "topic": "Permutation vs Combination",
+    "subtopics": [
+      {
+        "subtopic": "Key Differences",
+        "content": "1. In permutation, order matters; in combination, it does not.\n2. Permutations are generally more in number than combinations.\n\n**Example:** For n = 4, r = 2 →\nPermutation: 4P2 = 12\nCombination: 4C2 = 6"
+      }
+    ]
+  },
+  {
+    "topic": "Special Cases",
+    "subtopics": [
+      {
+        "subtopic": "Identical Items",
+        "content": "For permutations with identical items:\nIf n objects contain p, q, r… identical items,\nPermutations = n! / (p! × q! × r!...)\n\n**Example:**\nNumber of permutations of the word 'BALLOON' = 7! / (1! × 1! × 2! × 2! × 1!) = 1260"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Committee Formation",
+        "content": "**Q:** How many 3-letter words can be formed from letters A, B, C, D without repetition?\n**Solution:** 4P3 = 24\n**Answer:** 24 words"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Combination Problem",
+        "content": "**Q:** From a group of 10 people, how many ways can you choose 4 for a team?\n**Solution:** 10C4 = 210\n**Answer:** 210 ways"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Confusing when to use permutation vs combination\n2. Ignoring the significance of order in the question\n3. Forgetting factorial rules or simplifications\n4. Misinterpreting identical item conditions\n\n**Mistake Example:**\nWrong: Using 5C2 when order matters\nCorrect: Use 5P2 if order matters"
+      }
+    ]
+  }
+]
