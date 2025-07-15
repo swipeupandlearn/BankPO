@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "Average",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "An average is the sum of values divided by the number of values. It gives a central value of a set of numbers.\n\n**Formula:**\nAverage = (Sum of observations) / (Number of observations)"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Concept",
+    "subtopics": [
+      {
+        "subtopic": "Finding Average",
+        "content": "**Example:**\n**Q:** Find the average of 10, 20, 30, 40, 50\n**Solution:** Sum = 150, Number = 5 ⇒ Average = 150 / 5 = 30\n**Answer:** 30"
+      },
+      {
+        "subtopic": "Effect of Adding/Removing a Value",
+        "content": "If a number is added or removed from a data set, the new average can be quickly recalculated using:\nNew Average = (Old Average × Old Count ± Added/Removed Value) / New Count"
+      }
+    ]
+  },
+  {
+    "topic": "Types of Average Problems",
+    "subtopics": [
+      {
+        "subtopic": "Common Variations",
+        "content": "1. Average of consecutive numbers\n2. Finding missing number when average is known\n3. Weighted average\n4. Average speed\n5. Combined average of two groups\n\n**Example:**\nAverage of first 10 natural numbers = (10 + 1) / 2 = 5.5"
+      }
+    ]
+  },
+  {
+    "topic": "Important Formulas",
+    "subtopics": [
+      {
+        "subtopic": "Weighted Average Formula",
+        "content": "When groups have different sizes:\nWeighted Average = (A₁N₁ + A₂N₂) / (N₁ + N₂)\nWhere A = average, N = number of items in each group"
+      },
+      {
+        "subtopic": "Average Speed Formula",
+        "content": "If a distance is covered at two different speeds S₁ and S₂:\nAverage Speed = (2 × S₁ × S₂) / (S₁ + S₂)"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Simple Average",
+        "content": "**Q:** The average of 7, 14, 21, 28, and 35 is:\n**Solution:** Sum = 105; Number = 5 ⇒ Average = 105 / 5 = 21\n**Answer:** 21"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Weighted Average",
+        "content": "**Q:** Average marks of 20 boys is 70 and that of 30 girls is 80. Find the combined average.\n**Solution:** (20×70 + 30×80)/(20+30) = (1400 + 2400)/50 = 3800/50 = 76\n**Answer:** 76"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 3",
+    "subtopics": [
+      {
+        "subtopic": "Average Speed",
+        "content": "**Q:** A man travels 60 km at 30 km/h and returns at 60 km/h. What is his average speed?\n**Solution:** (2 × 30 × 60)/(30 + 60) = 3600 / 90 = 40 km/h\n**Answer:** 40 km/h"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Forgetting to divide by correct number of items\n2. Confusing average speed with arithmetic mean\n3. Misapplying weighted average formula\n4. Calculation mistakes in addition or multiplication\n\n**Example Mistake:**\nWrong: Average of 2, 4, 6 is (2+4+6)/2 = 6 (Incorrect)\nCorrect: (2+4+6)/3 = 12/3 = 4"
+      }
+    ]
+  }
+]
