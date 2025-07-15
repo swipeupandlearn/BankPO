@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "Boats and Streams",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Boats and Streams problems are based on the concepts of relative speed in water. The stream affects the speed of the boat depending on whether the boat is moving with or against the current."
+      }
+    ]
+  },
+  {
+    "topic": "Key Terms",
+    "subtopics": [
+      {
+        "subtopic": "Terminology",
+        "content": "- **Still Water**: Water without any flow.\n- **Stream/Current**: The flow of water.\n- **Downstream**: Boat and stream moving in the same direction.\n- **Upstream**: Boat and stream moving in opposite directions."
+      }
+    ]
+  },
+  {
+    "topic": "Basic Formulas",
+    "subtopics": [
+      {
+        "subtopic": "Speed Relationships",
+        "content": "- Speed downstream = Speed of boat + Speed of stream\n- Speed upstream = Speed of boat − Speed of stream\n\n**Example:**\nBoat speed = 10 km/hr, Stream speed = 2 km/hr\nDownstream = 10 + 2 = 12 km/hr\nUpstream = 10 − 2 = 8 km/hr"
+      }
+    ]
+  },
+  {
+    "topic": "Finding Boat and Stream Speed",
+    "subtopics": [
+      {
+        "subtopic": "Using Upstream & Downstream",
+        "content": "- Speed of boat = (Downstream + Upstream)/2\n- Speed of stream = (Downstream − Upstream)/2\n\n**Example:**\nDownstream = 14 km/hr, Upstream = 6 km/hr\nBoat = (14 + 6)/2 = 10 km/hr\nStream = (14 − 6)/2 = 4 km/hr"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Basic Calculation",
+        "content": "**Q:** A boat can go 30 km downstream in 3 hours and return in 5 hours. Find speed of boat and stream.\n**Solution:**\nDownstream speed = 30/3 = 10 km/hr\nUpstream speed = 30/5 = 6 km/hr\nBoat speed = (10+6)/2 = 8 km/hr\nStream speed = (10−6)/2 = 2 km/hr"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Upstream Time",
+        "content": "**Q:** Speed of boat = 15 km/hr, speed of stream = 3 km/hr. How much time to go 36 km upstream?\n**Solution:**\nUpstream speed = 15 − 3 = 12 km/hr\nTime = 36/12 = 3 hours\n**Answer:** 3 hours"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Confusing downstream and upstream directions\n2. Not dividing distance by relative speed\n3. Using average speed formula incorrectly\n4. Forgetting to convert units if needed\n\n**Example Mistake:**\nWrong: Upstream speed = boat + stream (Incorrect)\nCorrect: Upstream speed = boat − stream"
+      }
+    ]
+  }
+]
