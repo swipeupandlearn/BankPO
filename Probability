@@ -1,0 +1,92 @@
+[
+  {
+    "topic": "Probability",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Probability is the measure of the likelihood of an event occurring. It ranges between 0 and 1.\n\n**Formula:**\nProbability of an event (E) = Number of favorable outcomes / Total number of outcomes"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Concepts",
+    "subtopics": [
+      {
+        "subtopic": "Key Terms",
+        "content": "1. **Experiment**: An action with an uncertain result.\n2. **Sample Space (S)**: Set of all possible outcomes.\n3. **Event (E)**: A subset of the sample space.\n4. **Favorable outcomes**: Outcomes that satisfy the event condition."
+      }
+    ]
+  },
+  {
+    "topic": "Types of Probability",
+    "subtopics": [
+      {
+        "subtopic": "Theoretical and Experimental",
+        "content": "1. **Theoretical Probability** is based on reasoning or known outcomes.\n2. **Experimental Probability** is based on actual experiments or observations."
+      }
+    ]
+  },
+  {
+    "topic": "Key Formulas",
+    "subtopics": [
+      {
+        "subtopic": "Basic Formulas",
+        "content": "1. P(E) = Favorable / Total outcomes\n2. P(not E) = 1 − P(E)\n3. If A and B are two events:\n   - P(A ∪ B) = P(A) + P(B) − P(A ∩ B)\n   - P(A ∩ B) = P(A) × P(B), if A and B are independent"
+      }
+    ]
+  },
+  {
+    "topic": "Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Single Coin Toss",
+        "content": "**Q:** What is the probability of getting a head when a coin is tossed?\n**Solution:** Sample space = {Head, Tail}\nFavorable outcome = {Head}\nP(Head) = 1/2\n**Answer:** 0.5"
+      }
+    ]
+  },
+  {
+    "topic": "Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Rolling a Die",
+        "content": "**Q:** What is the probability of getting a number less than 4 when a die is rolled?\n**Solution:** Numbers less than 4 = {1, 2, 3}\nTotal outcomes = 6\nP = 3/6 = 0.5\n**Answer:** 0.5"
+      }
+    ]
+  },
+  {
+    "topic": "Example 3",
+    "subtopics": [
+      {
+        "subtopic": "Drawing a Card",
+        "content": "**Q:** What is the probability of drawing a king from a standard deck of 52 cards?\n**Solution:** Favorable = 4 kings\nP = 4/52 = 1/13\n**Answer:** 1/13"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Multiple Coins",
+        "content": "**Q:** Two coins are tossed. What is the probability of getting exactly one head?\n**Solution:** Sample space = {HH, HT, TH, TT} → 4 outcomes\nFavorable = {HT, TH} = 2\nP = 2/4 = 0.5\n**Answer:** 0.5"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Two Dice",
+        "content": "**Q:** What is the probability of getting a sum of 7 when two dice are thrown?\n**Solution:** Favorable = {(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)} → 6 outcomes\nTotal = 36\nP = 6/36 = 1/6\n**Answer:** 1/6"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Forgetting total number of outcomes\n2. Confusing independent vs dependent events\n3. Not considering all favorable outcomes\n4. Miscounting card or dice cases\n\n**Example Mistake:**\nWrong: P(King) = 1/4\nCorrect: P(King) = 4/52 = 1/13"
+      }
+    ]
+  }
+]
