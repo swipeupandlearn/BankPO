@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "Quadratic Equations",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "A quadratic equation is a polynomial equation of the form ax² + bx + c = 0, where a, b, and c are real numbers and a ≠ 0. It has two roots (solutions) which can be real or complex."
+      }
+    ]
+  },
+  {
+    "topic": "Standard Form",
+    "subtopics": [
+      {
+        "subtopic": "General Form",
+        "content": "The standard form of a quadratic equation is: ax² + bx + c = 0.\nHere:\n- a = coefficient of x²\n- b = coefficient of x\n- c = constant term"
+      }
+    ]
+  },
+  {
+    "topic": "Solving Quadratic Equations",
+    "subtopics": [
+      {
+        "subtopic": "Factorization Method",
+        "content": "**Example:** Solve x² + 5x + 6 = 0\nStep 1: Find two numbers that multiply to 6 and add to 5 → 2 and 3\nStep 2: x² + 2x + 3x + 6 = 0\nStep 3: x(x + 2) + 3(x + 2) = 0\nStep 4: (x + 2)(x + 3) = 0 ⇒ x = −2, −3"
+      },
+      {
+        "subtopic": "Quadratic Formula",
+        "content": "x = [-b ± √(b² − 4ac)] / 2a\n\n**Example:** Solve 2x² − 4x − 6 = 0\nHere a = 2, b = −4, c = −6\nD = b² − 4ac = 16 + 48 = 64\nx = [4 ± √64]/4 = [4 ± 8]/4\n⇒ x = 3 or −1"
+      },
+      {
+        "subtopic": "Completing the Square",
+        "content": "**Example:** Solve x² + 6x + 5 = 0\nStep 1: x² + 6x = −5\nStep 2: Add (6/2)² = 9 to both sides: x² + 6x + 9 = 4\nStep 3: (x + 3)² = 4 ⇒ x + 3 = ±2 ⇒ x = −1 or −5"
+      }
+    ]
+  },
+  {
+    "topic": "Nature of Roots",
+    "subtopics": [
+      {
+        "subtopic": "Discriminant (D = b² − 4ac)",
+        "content": "1. If D > 0 → Real and Distinct roots\n2. If D = 0 → Real and Equal roots\n3. If D < 0 → Complex roots\n\n**Example:** For x² − 2x + 1 = 0, D = (−2)² − 4(1)(1) = 0 ⇒ Equal roots"
+      }
+    ]
+  },
+  {
+    "topic": "Shortcut Tips",
+    "subtopics": [
+      {
+        "subtopic": "Tips for Bank PO",
+        "content": "1. Memorize common factor pairs\n2. Practice identifying a, b, c quickly\n3. Use options when available\n4. Avoid unnecessary calculation by checking sign pattern\n5. Discriminant (D) quickly tells root type"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Factor Method",
+        "content": "**Q:** Solve: x² − 7x + 12 = 0\nFactors of 12 that sum to −7 → −3 and −4\n(x − 3)(x − 4) = 0 ⇒ x = 3, 4\n**Answer:** 3 and 4"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Quadratic Formula",
+        "content": "**Q:** Solve 3x² − 5x + 2 = 0\nD = (−5)² − 4(3)(2) = 25 − 24 = 1\nx = [5 ± √1]/6 ⇒ x = (5 ± 1)/6 ⇒ x = 1 or 2/3\n**Answer:** 1 and 2/3"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Confusing sign of b or c in formula\n2. Miscalculating square roots\n3. Forgetting to divide by 2a in formula\n4. Using wrong factor pairs\n\n**Example Mistake:**\nWrong: x = (−b ± √(b² − 4ac)) / 2\nCorrect: x = (−b ± √(b² − 4ac)) / 2a"
+      }
+    ]
+  }
+]
