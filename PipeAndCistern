@@ -1,0 +1,60 @@
+[
+  {
+    "topic": "Pipes and Cisterns",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Pipes and Cisterns is a topic similar to Time and Work. It deals with the filling and emptying of tanks using inlet and outlet pipes. Inlet pipes fill the tank (positive work) while outlet pipes drain it (negative work)."
+      }
+    ]
+  },
+  {
+    "topic": "Basic Formula",
+    "subtopics": [
+      {
+        "subtopic": "Filling and Emptying",
+        "content": "If a pipe can fill a tank in 'x' hours, then work done per hour = 1/x.\nIf a pipe can empty a tank in 'y' hours, work done per hour = −1/y.\n\n**Example:**\nInlet fills in 5 hrs → 1/5 per hour\nOutlet empties in 10 hrs → −1/10 per hour"
+      },
+      {
+        "subtopic": "Combined Effect",
+        "content": "If one pipe fills in x hours and another empties in y hours:\nNet work = 1/x − 1/y (if filling rate > emptying rate)\n\n**Example:**\nFill: 6 hrs, Empty: 9 hrs\nNet = 1/6 − 1/9 = (3−2)/18 = 1/18 → Tank fills in 18 hrs"
+      }
+    ]
+  },
+  {
+    "topic": "When Pipes Are Turned On/Off",
+    "subtopics": [
+      {
+        "subtopic": "Conditional Working",
+        "content": "If pipes are turned on/off at different times, break the time into intervals.\n\n**Example:**\nPipe A fills in 4 hrs, B fills in 6 hrs. A alone works 2 hrs, then B is also turned on.\nA's 2-hour work = 2/4 = 1/2\nNow A + B's rate = 1/4 + 1/6 = 5/12\nRemaining = 1 − 1/2 = 1/2\nTime to fill = (1/2)/(5/12) = 6/5 = 1.2 hrs\nTotal time = 2 + 1.2 = 3.2 hrs"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Inlet Pipe Only",
+        "content": "**Q:** A pipe can fill a tank in 8 hours. How much part will it fill in 3 hours?\n**Solution:** Work done = 3/8\n**Answer:** 3/8 of the tank"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Inlet and Outlet",
+        "content": "**Q:** A pipe fills in 6 hrs, another empties in 12 hrs. How much time to fill the tank?\n**Solution:** Net rate = 1/6 − 1/12 = 1/12\nTime = 12 hrs\n**Answer:** 12 hours"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Forgetting to subtract outlet work\n2. Not converting partial work correctly\n3. Confusing rates with times\n\n**Example Mistake:**\nWrong: 1/4 − 1/2 = 1/2 (Incorrect subtraction)\nCorrect: 1/4 − 1/2 = (1−2)/4 = −1/4"
+      }
+    ]
+  }
+]
