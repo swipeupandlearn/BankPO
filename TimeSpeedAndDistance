@@ -1,0 +1,73 @@
+[
+  {
+    "topic": "Time, Speed and Distance",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Time, Speed, and Distance (TSD) is an essential topic in quantitative aptitude that deals with calculating how long it takes to travel a certain distance at a given speed."
+      }
+    ]
+  },
+  {
+    "topic": "Basic Formula",
+    "subtopics": [
+      {
+        "subtopic": "Speed, Time, Distance",
+        "content": "Distance = Speed × Time\nSpeed = Distance / Time\nTime = Distance / Speed\n\n**Units:**\n- Speed: km/hr or m/s\n- Distance: km or m\n- Time: hours or seconds"
+      },
+      {
+        "subtopic": "Unit Conversion",
+        "content": "To convert km/hr to m/s, multiply by 5/18\nTo convert m/s to km/hr, multiply by 18/5\n\n**Example:**\n60 km/hr = 60 × 5/18 = 16.67 m/s"
+      }
+    ]
+  },
+  {
+    "topic": "Average Speed",
+    "subtopics": [
+      {
+        "subtopic": "When Equal Distance",
+        "content": "Average Speed = (2 × Speed1 × Speed2) / (Speed1 + Speed2)\n\n**Example:**\nSpeed going = 60 km/hr, returning = 40 km/hr\nAvg Speed = (2 × 60 × 40) / (60 + 40) = 4800 / 100 = 48 km/hr"
+      }
+    ]
+  },
+  {
+    "topic": "Relative Speed",
+    "subtopics": [
+      {
+        "subtopic": "Concept",
+        "content": "Used when two objects move towards or away from each other.\n- Same direction: Relative speed = Difference of speeds\n- Opposite direction: Relative speed = Sum of speeds"
+      },
+      {
+        "subtopic": "Example",
+        "content": "**Q:** Two trains moving at 60 km/hr and 40 km/hr in opposite directions. Find relative speed.\n**Solution:** Relative speed = 60 + 40 = 100 km/hr"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Basic TSD",
+        "content": "**Q:** A car covers 240 km in 4 hours. What is the speed?\n**Solution:** Speed = Distance / Time = 240 / 4 = 60 km/hr\n**Answer:** 60 km/hr"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Unit Conversion",
+        "content": "**Q:** Convert 90 km/hr into m/s.\n**Solution:** 90 × 5/18 = 25 m/s\n**Answer:** 25 m/s"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Not converting units properly\n2. Using wrong formula\n3. Confusing relative speed concept\n4. Misinterpreting average speed formula\n\n**Example Mistake:**\nWrong: Average Speed = (Speed1 + Speed2)/2 (only valid for equal time, not distance)"
+      }
+    ]
+  }
+]
