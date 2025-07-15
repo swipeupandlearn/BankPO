@@ -1,0 +1,83 @@
+[
+  {
+    "topic": "Inequality",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Inequality involves comparing two expressions using symbols like >, <, ≥, ≤, or =. These questions test your ability to evaluate and derive conclusions based on multiple inequalities."
+      }
+    ]
+  },
+  {
+    "topic": "Types of Inequalities",
+    "subtopics": [
+      {
+        "subtopic": "Basic Types",
+        "content": "1. Direct Inequality: A > B, C ≤ D\n2. Indirect Inequality: Combine two or more statements\n3. Coded Inequality: Symbols represent logical relations\n4. Quantitative Inequality: Compare values from two different equations\n\n**Example:** A > B, B > C ⇒ A > C"
+      }
+    ]
+  },
+  {
+    "topic": "Important Symbols",
+    "subtopics": [
+      {
+        "subtopic": "Inequality Symbols",
+        "content": "1. > : Greater than\n2. < : Less than\n3. ≥ : Greater than or equal to\n4. ≤ : Less than or equal to\n5. = : Equal to\n6. ≠ : Not equal to"
+      }
+    ]
+  },
+  {
+    "topic": "Combining Inequalities",
+    "subtopics": [
+      {
+        "subtopic": "How to Derive Conclusions",
+        "content": "When combining inequalities:\n- If A > B and B > C ⇒ A > C (Valid)\n- If A ≥ B and B > C ⇒ A > C (Valid)\n- If A > B and B = C ⇒ A > C (Valid)\n\n**Example:**\nA > B, B = C ⇒ A > C"
+      }
+    ]
+  },
+  {
+    "topic": "Coded Inequality",
+    "subtopics": [
+      {
+        "subtopic": "Understanding Symbol Coding",
+        "content": "In coded inequality, symbols are defined differently.\n\n**Example:**\nIf A @ B means A ≥ B, and A # B means A < B, then:\nA @ B # C ⇒ A ≥ B and B < C ⇒ No direct relation between A and C"
+      }
+    ]
+  },
+  {
+    "topic": "Shortcut Techniques",
+    "subtopics": [
+      {
+        "subtopic": "Quick Evaluation",
+        "content": "1. Draw arrows to trace relationships\n2. Eliminate options with opposite signs\n3. Combine only similar-direction inequalities\n4. Don’t assume transitivity with opposite directions"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Direct Inequality",
+        "content": "**Q:** A > B, B ≥ C, C = D. What is the relation between A and D?\n**Solution:** A > B ≥ C = D ⇒ A > D\n**Answer:** A > D"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Coded Inequality",
+        "content": "**Q:** If A $ B means A < B, A # B means A ≥ B, then what is the meaning of A $ B # C?\n**Solution:** A < B and B ≥ C ⇒ A < B and B ≥ C ⇒ No direct relation between A and C\n**Answer:** Cannot be determined"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "What to Avoid",
+        "content": "1. Mixing opposite inequalities\n2. Assuming transitivity where not valid\n3. Misreading symbol definitions in coded form\n4. Overlooking equality\n5. Deriving conclusions from unconnected terms\n\n**Example Mistake:**\nA > B, B < C ⇒ Assuming A > C (Incorrect — No direct relation)"
+      }
+    ]
+  }
+]
