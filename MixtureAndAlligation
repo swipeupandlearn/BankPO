@@ -1,0 +1,77 @@
+[
+  {
+    "topic": "Mixture and Alligation",
+    "subtopics": [
+      {
+        "subtopic": "Definition",
+        "content": "Mixture and Alligation is a method used to solve problems related to mixing two or more quantities with different characteristics (like cost, concentration, etc.) to obtain a mixture with a desired property."
+      }
+    ]
+  },
+  {
+    "topic": "Rule of Alligation",
+    "subtopics": [
+      {
+        "subtopic": "Concept",
+        "content": "Alligation is a rule that helps to find the ratio in which two or more ingredients at different prices (or concentrations) must be mixed to obtain a mixture at a given price (or concentration).\n\n**Formula:**\n(Cheaper - Mean) : (Mean - Dearer)"
+      },
+      {
+        "subtopic": "Example 1",
+        "content": "**Q:** In what ratio must a shopkeeper mix sugar at ₹30/kg and ₹50/kg to get a mixture worth ₹40/kg?\n**Solution:**\n(50 - 40) : (40 - 30) = 10 : 10 = 1 : 1\n**Answer:** 1 : 1"
+      },
+      {
+        "subtopic": "Example 2",
+        "content": "**Q:** In what ratio must water be mixed with milk costing ₹60/litre so that the mixture is worth ₹40/litre?\n**Solution:**\n(60 - 40) : (40 - 0) = 20 : 40 = 1 : 2\n**Answer:** Water : Milk = 1 : 2"
+      }
+    ]
+  },
+  {
+    "topic": "Types of Mixture Problems",
+    "subtopics": [
+      {
+        "subtopic": "Common Types",
+        "content": "1. Mixing two quantities of different costs or concentrations\n2. Replacement type (adding and removing liquid)\n3. Mixing three or more items using weighted average\n4. Profit-based mixture questions"
+      },
+      {
+        "subtopic": "Example",
+        "content": "**Q:** A vessel contains 40 litres of milk. 8 litres are removed and replaced with water. This process is repeated 3 times. What is the final quantity of milk?\n**Formula Used:** Final quantity = Initial × (1 - removed/total)^n = 40 × (1 - 8/40)^3 = 40 × (4/5)^3 = 40 × 64/125 = 20.48 litres\n**Answer:** 20.48 litres of milk"
+      }
+    ]
+  },
+  {
+    "topic": "Important Formulas",
+    "subtopics": [
+      {
+        "subtopic": "Alligation Formula",
+        "content": "If two items costing C₁ and C₂ are mixed to get a mean cost M, then:\n(C₂ - M) : (M - C₁) = Quantity₁ : Quantity₂\n\nAlso applicable for percentage/concentration/ratio-based problems."
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 1",
+    "subtopics": [
+      {
+        "subtopic": "Basic Alligation",
+        "content": "**Q:** In what ratio must rice at ₹24/kg be mixed with rice at ₹30/kg to get a mixture worth ₹28/kg?\n**Solution:** (30 - 28):(28 - 24) = 2 : 4 = 1 : 2\n**Answer:** 1 : 2"
+      }
+    ]
+  },
+  {
+    "topic": "Practice Example 2",
+    "subtopics": [
+      {
+        "subtopic": "Water Replacement",
+        "content": "**Q:** A container contains 60 litres of milk. 10 litres are replaced with water. This is done 2 times. Find the quantity of milk left.\n**Solution:** 60 × (1 - 10/60)^2 = 60 × (5/6)^2 = 60 × 25/36 = 41.67 litres\n**Answer:** 41.67 litres"
+      }
+    ]
+  },
+  {
+    "topic": "Common Mistakes",
+    "subtopics": [
+      {
+        "subtopic": "Avoid These Errors",
+        "content": "1. Reversing the cheaper and dearer values\n2. Not converting percentages properly\n3. Ignoring repeated dilution effect in replacement\n4. Not using square or cube for repeated operations\n\n**Example Mistake:** Using (40 - 30) : (50 - 40) instead of (50 - 40) : (40 - 30)"
+      }
+    ]
+  }
+]
